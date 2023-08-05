@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1691223334224,
+  "timestamp": 1691224000116,
   "index": "https://ngx-canvas.github.io/demo/index.html",
   "assetGroups": [
     {
@@ -86,7 +86,7 @@
     "https://ngx-canvas.github.io/demo/assets/shapes/text.svg": "e2e997bbe1daf9a95dcb45a9487662b025e73a4c",
     "https://ngx-canvas.github.io/demo/assets/shapes/vector.svg": "1321c81285badd044562e8a12a57e540f6a7e407",
     "https://ngx-canvas.github.io/demo/favicon.ico": "4c50c893762991a06a84b22e5641ed6ee5037734",
-    "https://ngx-canvas.github.io/demo/index.html": "9e5ba6516b6b47f4cfdd78af612373a7868ffd40",
+    "https://ngx-canvas.github.io/demo/index.html": "94b81f6027e2db0bad6807f2c66912bf6401c69c",
     "https://ngx-canvas.github.io/demo/main.f0573f0ab3778e15.js": "d0a526490b012c667262239c62d5de3c5f47bfa6",
     "https://ngx-canvas.github.io/demo/manifest.webmanifest": "c0b34819eca5f1d21922fbacaf7554a5c79192b3",
     "https://ngx-canvas.github.io/demo/polyfills.1976c76d90af2237.js": "9b3036477909ea7ca9944b9d19137901fdadf67f",
