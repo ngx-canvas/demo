@@ -1,0 +1,115 @@
+{
+  "configVersion": 1,
+  "timestamp": 1691223103556,
+  "index": "https://ngx-canvas.github.io/demo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://ngx-canvas.github.io/demo/favicon.ico",
+        "https://ngx-canvas.github.io/demo/index.html",
+        "https://ngx-canvas.github.io/demo/main.f0573f0ab3778e15.js",
+        "https://ngx-canvas.github.io/demo/manifest.webmanifest",
+        "https://ngx-canvas.github.io/demo/polyfills.1976c76d90af2237.js",
+        "https://ngx-canvas.github.io/demo/runtime.4c9e0cc02dde3c26.js",
+        "https://ngx-canvas.github.io/demo/styles.48013ef5309fbc09.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://ngx-canvas.github.io/demo/assets/icons/icon-128x128.png",
+        "https://ngx-canvas.github.io/demo/assets/icons/icon-144x144.png",
+        "https://ngx-canvas.github.io/demo/assets/icons/icon-152x152.png",
+        "https://ngx-canvas.github.io/demo/assets/icons/icon-192x192.png",
+        "https://ngx-canvas.github.io/demo/assets/icons/icon-384x384.png",
+        "https://ngx-canvas.github.io/demo/assets/icons/icon-512x512.png",
+        "https://ngx-canvas.github.io/demo/assets/icons/icon-72x72.png",
+        "https://ngx-canvas.github.io/demo/assets/icons/icon-96x96.png",
+        "https://ngx-canvas.github.io/demo/assets/shapes/button.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/chart.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/circle.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/cubic-bezier-curve.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/ellipse.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/elliptical-curve.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/free.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/line.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/polygon.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/polyline.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/quadratic-bezier-curve.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/range.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/rectangle.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/select.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/table.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/text.svg",
+        "https://ngx-canvas.github.io/demo/assets/shapes/vector.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://ngx-canvas.github.io/demo/assets/icons/icon-128x128.png": "1fef6598712cbb65dfd7b5b87e973db6efee6f29",
+    "https://ngx-canvas.github.io/demo/assets/icons/icon-144x144.png": "c5678a1c8d58ee123235a0bf64214779fa403012",
+    "https://ngx-canvas.github.io/demo/assets/icons/icon-152x152.png": "b808f19b9c361cfa5abd2bd7638d55fbbaeb02a7",
+    "https://ngx-canvas.github.io/demo/assets/icons/icon-192x192.png": "463d6db00887bdc0ebbc7d83c4c1db2e03606aef",
+    "https://ngx-canvas.github.io/demo/assets/icons/icon-384x384.png": "b494841b56e46583a03354fa439fecadb2966636",
+    "https://ngx-canvas.github.io/demo/assets/icons/icon-512x512.png": "aab30a36d757cde9446370db6347affd7a559fc1",
+    "https://ngx-canvas.github.io/demo/assets/icons/icon-72x72.png": "d36179f05fea57538d1852c1a8f696b363c31ce7",
+    "https://ngx-canvas.github.io/demo/assets/icons/icon-96x96.png": "a924024e4e1237dd5dc221a4d3bd5df4e3eefba0",
+    "https://ngx-canvas.github.io/demo/assets/shapes/button.svg": "d501c1f836a6ee2993b42a48045dfaca84deef8f",
+    "https://ngx-canvas.github.io/demo/assets/shapes/chart.svg": "e40aa8a9a21648cba1934fc1ae9772ddee3cc452",
+    "https://ngx-canvas.github.io/demo/assets/shapes/circle.svg": "a9a695a31d7d85142c7d6b6c992fec6499898596",
+    "https://ngx-canvas.github.io/demo/assets/shapes/cubic-bezier-curve.svg": "4971bc11a8a0198072be33f8855e64ad962e77ee",
+    "https://ngx-canvas.github.io/demo/assets/shapes/ellipse.svg": "a9a695a31d7d85142c7d6b6c992fec6499898596",
+    "https://ngx-canvas.github.io/demo/assets/shapes/elliptical-curve.svg": "4971bc11a8a0198072be33f8855e64ad962e77ee",
+    "https://ngx-canvas.github.io/demo/assets/shapes/free.svg": "83eea716893ec309b0007fa1155b67a81204932e",
+    "https://ngx-canvas.github.io/demo/assets/shapes/line.svg": "238fbfebe1a78ab1ee3bd4808efc1f3b36672762",
+    "https://ngx-canvas.github.io/demo/assets/shapes/polygon.svg": "67287cec057595972da989efac49fc6167bd5a11",
+    "https://ngx-canvas.github.io/demo/assets/shapes/polyline.svg": "06c9e87da3fdd04807147b48a600faf02ab68668",
+    "https://ngx-canvas.github.io/demo/assets/shapes/quadratic-bezier-curve.svg": "4971bc11a8a0198072be33f8855e64ad962e77ee",
+    "https://ngx-canvas.github.io/demo/assets/shapes/range.svg": "8cea22ffcf3fcc634b22fd52f42a7dd455a91002",
+    "https://ngx-canvas.github.io/demo/assets/shapes/rectangle.svg": "f7fe9826b98c0323979a7e53ffcee7d83e12692b",
+    "https://ngx-canvas.github.io/demo/assets/shapes/select.svg": "2417166f2b8dcab640d87ce8db91f21910a37de6",
+    "https://ngx-canvas.github.io/demo/assets/shapes/table.svg": "d6486428c57f5abd11c2ba2d95c5d9757963c205",
+    "https://ngx-canvas.github.io/demo/assets/shapes/text.svg": "e2e997bbe1daf9a95dcb45a9487662b025e73a4c",
+    "https://ngx-canvas.github.io/demo/assets/shapes/vector.svg": "1321c81285badd044562e8a12a57e540f6a7e407",
+    "https://ngx-canvas.github.io/demo/favicon.ico": "4c50c893762991a06a84b22e5641ed6ee5037734",
+    "https://ngx-canvas.github.io/demo/index.html": "9e5ba6516b6b47f4cfdd78af612373a7868ffd40",
+    "https://ngx-canvas.github.io/demo/main.f0573f0ab3778e15.js": "d0a526490b012c667262239c62d5de3c5f47bfa6",
+    "https://ngx-canvas.github.io/demo/manifest.webmanifest": "c0b34819eca5f1d21922fbacaf7554a5c79192b3",
+    "https://ngx-canvas.github.io/demo/polyfills.1976c76d90af2237.js": "9b3036477909ea7ca9944b9d19137901fdadf67f",
+    "https://ngx-canvas.github.io/demo/runtime.4c9e0cc02dde3c26.js": "2befef5dcf1016fb03f841f7f20cf4b9c0eb7421",
+    "https://ngx-canvas.github.io/demo/styles.48013ef5309fbc09.css": "74bb5b43710253041fb9f4081f230494defb80d7"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
