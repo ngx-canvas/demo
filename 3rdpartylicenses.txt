@@ -66,6 +66,8 @@ MIT
 @angular/service-worker
 MIT
 
+@libs/common
+
 @ngx-canvas/core
 MIT
 MIT License
